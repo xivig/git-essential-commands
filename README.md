@@ -7,7 +7,10 @@ Step by step git essential commands
 
 Step 1
 ## creating project directory and switching in it
+
+```
 makdir new-project && cd new-project
+```
 
 ## git initialize
 	git init
