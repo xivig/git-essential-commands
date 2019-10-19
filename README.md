@@ -2,8 +2,18 @@
 **
 Step by step git essential commands
 **
+# First step after creating repository
+# …or create a new repository on the command line
+echo "# wordpress-theme-portfolio" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin ``https://github.com/yisxa/wordpress-theme-portfolio.git``
+git push -u origin master
 
-
+# …or push an existing repository from the command line
+git remote add origin ``https://github.com/yisxa/wordpress-theme-portfolio.git``
+git push -u origin master
 
 Step 1
 ## creating project directory and switching in it
