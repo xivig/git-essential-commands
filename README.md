@@ -71,7 +71,7 @@ Step 3
 	touch .gitignore && echo "node_modules/" >> .gitignore
 
 ## git add particular files
-	git add .gitignore package.jason package-lock.jason README.md
+	git add .gitignore package.json package-lock.json README.md
 
 ## git remove a already added node modules
 	git rm -r --cached node_modules && touch .gitignore && echo "node_modules/" >> .gitignore
