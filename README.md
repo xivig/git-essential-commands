@@ -22,7 +22,7 @@ git remote add origin ``https://github.com/yisxa/wordpress-theme-portfolio.git``
 
 git push -u origin master
 
-Step 1
+## Step 1
 ## creating project directory and switching in it
 
 ```
