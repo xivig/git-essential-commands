@@ -41,7 +41,7 @@ makdir new-project && cd new-project
 	git config --global user.email "abc@rediffmail.com"
 	git config --global color.ui true
 
-Step 2
+## Step 2
 ## git remote adding file to local repository so that you can host(upload) file to Github without hiccup
 	git remote add origin https://github.com/yisxa/abc.git
 	git remote -v
@@ -58,7 +58,7 @@ Step 2
 ## git clone a remote repository
     git clone https://github.com/yisxa/oop-php.git
 
-Step 3
+## Step 3
 ## git add all files to staging area
 	git status
 	git add -A
